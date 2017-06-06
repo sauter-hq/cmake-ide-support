@@ -40,5 +40,8 @@ include(add_ide_support.cmake)
 target_add_ide_support(some-c-lib)
 ```
 
+## Without target\_add\_ide\_support
 ![Without add\_ide\_support](./without_add_ide_support.png)
+
+## With target\_add\_ide\_support
 ![With add\_ide\_support](./with_add_ide_support.png)
